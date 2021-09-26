@@ -1,0 +1,16 @@
+2021-9月-25-23:11:55,ETL Start
+2021-9月-25-23:11:55,Extract Start
+2021-9月-25-23:11:55,Extract End
+2021-9月-25-23:11:55,Transform Start
+2021-9月-25-23:11:55,Transform End
+2021-9月-25-23:11:55,Load Start
+2021-9月-25-23:11:55,Load End
+2021-9月-25-23:11:55,ETL End
+2021-Sep-25-23:12:56,ETL Start
+2021-Sep-25-23:12:56,Extract Start
+2021-Sep-25-23:12:56,Extract End
+2021-Sep-25-23:12:56,Transform Start
+2021-Sep-25-23:12:56,Transform End
+2021-Sep-25-23:12:56,Load Start
+2021-Sep-25-23:12:56,Load End
+2021-Sep-25-23:12:56,ETL End
